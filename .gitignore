@@ -1,0 +1,10 @@
+# Datos
+data/raw/
+data/processed/
+
+# Entornos
+venv/
+.env
+__pycache__/
+cd '/home/kali/proyectos/Clasificaciondefrutas.udea.novateam/Clasificaciondefrutas.udea.novateam'
+
