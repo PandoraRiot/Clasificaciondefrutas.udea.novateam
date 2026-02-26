@@ -1,0 +1,28 @@
+# Datasets
+data/raw/*
+data/processed/*
+
+# Modelos entrenados
+models/*
+
+# Entornos
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# SO
+.DS_Storecd '/home/kali/proyectos/Clasificaciondefrutas.udea.novateam'
+
+cd '/home/kali/proyectos/Clasificaciondefrutas.udea.novateam'
+
