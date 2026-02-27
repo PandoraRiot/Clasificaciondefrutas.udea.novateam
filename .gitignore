@@ -1,0 +1,19 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Datos grandes
+data/raw/
+data/processed/
+data/selected/cd '/home/kali/proyectos/Clasificaciondefrutas.udea.novateam'
+
+# Modelos entrenados
+models/
+
+# Archivos del sistema
+__pycache__/
+*.pyc
+.DS_Store
+
+cd '/home/kali/proyectos/Clasificaciondefrutas.udea.novateam'
+
